@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["DOM", "ES2022"],
+    "jsx": "react-jsx",
+    "jsxImportSource": "react",
+    "moduleResolution": "node",
+    "isolatedModules": true
+  },
+  "include": ["**/*.ts", "**/*.tsx", "./custom.d.ts"],
+}
