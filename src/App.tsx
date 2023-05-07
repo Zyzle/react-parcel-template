@@ -1,5 +1,5 @@
-import Dolly from "./assets/dolly.svg";
-import External from "./assets/external.svg";
+import { Dolly } from "./Dolly";
+import { External } from "./External";
 
 export function App() {
   return (
